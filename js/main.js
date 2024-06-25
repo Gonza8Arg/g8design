@@ -669,7 +669,6 @@ var animateReveal = function() {
 			})
 			.setTween(tl2)
 			.addTo(controller);
-
 			heroNum++;
 		});
 	}
